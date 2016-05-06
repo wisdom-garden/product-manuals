@@ -1,21 +1,21 @@
 
-### Ç°ÑÔ
->¶ÔÓÚÀÏÊ¦£¬TronClass²»½öÄÜ¹»°ïÖúÄã´´Ôì³ö¾«²ÊÇÒĞÎÊ½·á¸»µÄ¿Î³Ì£¬¶øÇÒ»áÈÃÄãµÚÒ»Ê±¼äÁË½â¿ÎÌÃµÄ½ÌÑ§Ğ§¹û£¬¹ÜÀíÑ§ÉúÑ§Ï°Â·¾¶£¬²¢ÇÒÊ¹ÓÃ·½Ê½·Ç³£Áé»î×ÔÓÉ£¬Äã¿ÉÒÔ¸ù¾İ×Ô¼ºµÄĞèÇóÓ¦ÓÃÔÚ¿ÎÇ°¡¢¿ÎÖĞºÍ¿Îºó£¬½ÓÏÂÀ´µÄÄÚÈİ½«»á°ïÖúÄãÈ«ÃæÁË½âTronClass
+### å‰è¨€
+>å¯¹äºè€å¸ˆï¼ŒTronClassä¸ä»…èƒ½å¤Ÿå¸®åŠ©ä½ åˆ›é€ å‡ºç²¾å½©ä¸”å½¢å¼ä¸°å¯Œçš„è¯¾ç¨‹ï¼Œè€Œä¸”ä¼šè®©ä½ ç¬¬ä¸€æ—¶é—´äº†è§£è¯¾å ‚çš„æ•™å­¦æ•ˆæœï¼Œç®¡ç†å­¦ç”Ÿå­¦ä¹ è·¯å¾„ï¼Œå¹¶ä¸”ä½¿ç”¨æ–¹å¼éå¸¸çµæ´»è‡ªç”±ï¼Œä½ å¯ä»¥æ ¹æ®è‡ªå·±çš„éœ€æ±‚åº”ç”¨åœ¨è¯¾å‰ã€è¯¾ä¸­å’Œè¯¾åï¼Œæ¥ä¸‹æ¥çš„å†…å®¹å°†ä¼šå¸®åŠ©ä½ å…¨é¢äº†è§£TronClass
 
->¶ÔÓÚÑ§Éú£¬TronClassÊÇÒ»¸ö·Ç³£ÓĞÈ¤µÄÑ§Ï°¹ÜÀíÆ½Ì¨£¬Äã¼´½«ÒªÑ§Ï°µÄ¿Î³Ì¿ÉÄÜÓÉºÜ¶àÓĞÈ¤µÄ¶«Î÷×é³É£¬ËüÓĞÒôÊÓÆµ¡¢ÌÖÂÛÇø¡¢ÍøÒ³¡­Äã¿ÉÒÔÔÚÕâÀïÍê³ÉËùÓĞµÄ¿Î³ÌÑ§Ï°¡¢×÷ÒµÒÔ¼°¿¼ÊÔ£¬½ÓÏÂÀ´ÈÃÎÒ´øÄã¿´¿´TronClassµÄÊÀ½ç
+>å¯¹äºå­¦ç”Ÿï¼ŒTronClassæ˜¯ä¸€ä¸ªéå¸¸æœ‰è¶£çš„å­¦ä¹ ç®¡ç†å¹³å°ï¼Œä½ å³å°†è¦å­¦ä¹ çš„è¯¾ç¨‹å¯èƒ½ç”±å¾ˆå¤šæœ‰è¶£çš„ä¸œè¥¿ç»„æˆï¼Œå®ƒæœ‰éŸ³è§†é¢‘ã€è®¨è®ºåŒºã€ç½‘é¡µâ€¦ä½ å¯ä»¥åœ¨è¿™é‡Œå®Œæˆæ‰€æœ‰çš„è¯¾ç¨‹å­¦ä¹ ã€ä½œä¸šä»¥åŠè€ƒè¯•ï¼Œæ¥ä¸‹æ¥è®©æˆ‘å¸¦ä½ çœ‹çœ‹TronClassçš„ä¸–ç•Œ
 
-###1.	¿Î³Ì¼°½ÌÑ§»î¶¯½éÉÜ
-####1.1	½¨Á¢¿Î³Ì¼°¿Î³ÌÀàĞÍ½éÉÜ
-#####1.1.1	ÈçºÎĞÂ½¨¿Î³Ì£¨ÒÔÀÏÊ¦Éí·İ£©
+###1.	è¯¾ç¨‹åŠæ•™å­¦æ´»åŠ¨ä»‹ç»
+####1.1	å»ºç«‹è¯¾ç¨‹åŠè¯¾ç¨‹ç±»å‹ä»‹ç»
+#####1.1.1	å¦‚ä½•æ–°å»ºè¯¾ç¨‹ï¼ˆä»¥è€å¸ˆèº«ä»½ï¼‰
 
-- µã»÷¡°ÎÒµÄ¿Î³Ì¡±> µã»÷¡°ĞÂ½¨¿Î³Ì¡±
-- ³¬¼¶¹ÜÀíÔ±¡¢½ÌÎñÒ²¿ÉÒÔ×÷ÎªÀÏÊ¦µÄ½ÇÉ«£¬¿ª¿ÎÊÚ¿Î
-- Ö§³ÖToC£¨Table of Contents£©¡¢Emoji±íÇé¡¢Task lists¡¢@Á´½ÓµÈMarkdownÀ©Õ¹Óï·¨£»
-- Ö§³ÖTeX¿ÆÑ§¹«Ê½£¨»ùÓÚKaTeX£©¡¢Á÷³ÌÍ¼ Flowchart ºÍ Ê±ĞòÍ¼ Sequence Diagram;
-- Ö§³ÖÊ¶±ğºÍ½âÎöHTML±êÇ©£¬²¢ÇÒÖ§³Ö×Ô¶¨Òå¹ıÂË±êÇ©½âÎö£¬¾ßÓĞ¿É¿¿µÄ°²È«ĞÔºÍ¼¸ºõÎŞÏŞµÄÀ©Õ¹ĞÔ£»
-- Ö§³Ö AMD / CMD Ä£¿é»¯¼ÓÔØ£¨Ö§³Ö Require.js & Sea.js£©£¬²¢ÇÒÖ§³Ö×Ô¶¨ÒåÀ©Õ¹²å¼ş£»
-- ¼æÈİÖ÷Á÷µÄä¯ÀÀÆ÷£¨IE8+£©ºÍZepto.js£¬ÇÒÖ§³ÖiPadµÈÆ½°åÉè±¸£»
-- Ö§³Ö×Ô¶¨ÒåÖ÷ÌâÑùÊ½£»
+- ç‚¹å‡»â€œæˆ‘çš„è¯¾ç¨‹â€> ç‚¹å‡»â€œæ–°å»ºè¯¾ç¨‹â€
+- è¶…çº§ç®¡ç†å‘˜ã€æ•™åŠ¡ä¹Ÿå¯ä»¥ä½œä¸ºè€å¸ˆçš„è§’è‰²ï¼Œå¼€è¯¾æˆè¯¾
+- æ”¯æŒToCï¼ˆTable of Contentsï¼‰ã€Emojiè¡¨æƒ…ã€Task listsã€@é“¾æ¥ç­‰Markdownæ‰©å±•è¯­æ³•ï¼›
+- æ”¯æŒTeXç§‘å­¦å…¬å¼ï¼ˆåŸºäºKaTeXï¼‰ã€æµç¨‹å›¾ Flowchart å’Œ æ—¶åºå›¾ Sequence Diagram;
+- æ”¯æŒè¯†åˆ«å’Œè§£æHTMLæ ‡ç­¾ï¼Œå¹¶ä¸”æ”¯æŒè‡ªå®šä¹‰è¿‡æ»¤æ ‡ç­¾è§£æï¼Œå…·æœ‰å¯é çš„å®‰å…¨æ€§å’Œå‡ ä¹æ— é™çš„æ‰©å±•æ€§ï¼›
+- æ”¯æŒ AMD / CMD æ¨¡å—åŒ–åŠ è½½ï¼ˆæ”¯æŒ Require.js & Sea.jsï¼‰ï¼Œå¹¶ä¸”æ”¯æŒè‡ªå®šä¹‰æ‰©å±•æ’ä»¶ï¼›
+- å…¼å®¹ä¸»æµçš„æµè§ˆå™¨ï¼ˆIE8+ï¼‰å’ŒZepto.jsï¼Œä¸”æ”¯æŒiPadç­‰å¹³æ¿è®¾å¤‡ï¼›
+- æ”¯æŒè‡ªå®šä¹‰ä¸»é¢˜æ ·å¼ï¼›
 
 # Editor.md
 
@@ -23,7 +23,7 @@
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
-**Ä¿Â¼ (Table of Contents)**
+**ç›®å½• (Table of Contents)**
 
 [TOCM]
 
@@ -42,7 +42,7 @@
 ##### Heading 5 link [Heading link](https://github.com/pandao/editor.md "Heading link")
 ###### Heading 6 link [Heading link](https://github.com/pandao/editor.md "Heading link")
 
-#### ±êÌâ£¨ÓÃµ×ÏßµÄĞÎÊ½£©Heading (underline)
+#### æ ‡é¢˜ï¼ˆç”¨åº•çº¿çš„å½¢å¼ï¼‰Heading (underline)
 
 This is an H1
 =============
@@ -50,40 +50,40 @@ This is an H1
 This is an H2
 -------------
 
-### ×Ö·ûĞ§¹ûºÍºáÏßµÈ
+### å­—ç¬¦æ•ˆæœå’Œæ¨ªçº¿ç­‰
                 
 ----
 
-~~É¾³ıÏß~~ <s>É¾³ıÏß£¨¿ªÆôÊ¶±ğHTML±êÇ©Ê±£©</s>
-*Ğ±Ìå×Ö*      _Ğ±Ìå×Ö_
-**´ÖÌå**  __´ÖÌå__
-***´ÖĞ±Ìå*** ___´ÖĞ±Ìå___
+~~åˆ é™¤çº¿~~ <s>åˆ é™¤çº¿ï¼ˆå¼€å¯è¯†åˆ«HTMLæ ‡ç­¾æ—¶ï¼‰</s>
+*æ–œä½“å­—*      _æ–œä½“å­—_
+**ç²—ä½“**  __ç²—ä½“__
+***ç²—æ–œä½“*** ___ç²—æ–œä½“___
 
-ÉÏ±ê£ºX<sub>2</sub>£¬ÏÂ±ê£ºO<sup>2</sup>
+ä¸Šæ ‡ï¼šX<sub>2</sub>ï¼Œä¸‹æ ‡ï¼šO<sup>2</sup>
 
-**ËõĞ´(Í¬HTMLµÄabbr±êÇ©)**
+**ç¼©å†™(åŒHTMLçš„abbræ ‡ç­¾)**
 
-> ¼´¸ü³¤µÄµ¥´Ê»ò¶ÌÓïµÄËõĞ´ĞÎÊ½£¬Ç°ÌáÊÇ¿ªÆôÊ¶±ğHTML±êÇ©Ê±£¬ÒÑÄ¬ÈÏ¿ªÆô
+> å³æ›´é•¿çš„å•è¯æˆ–çŸ­è¯­çš„ç¼©å†™å½¢å¼ï¼Œå‰ææ˜¯å¼€å¯è¯†åˆ«HTMLæ ‡ç­¾æ—¶ï¼Œå·²é»˜è®¤å¼€å¯
 
 The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is maintained by the <abbr title="World Wide Web Consortium">W3C</abbr>.
 
-### ÒıÓÃ Blockquotes
+### å¼•ç”¨ Blockquotes
 
-> ÒıÓÃÎÄ±¾ Blockquotes
+> å¼•ç”¨æ–‡æœ¬ Blockquotes
 
-ÒıÓÃµÄĞĞÄÚ»ìºÏ Blockquotes
+å¼•ç”¨çš„è¡Œå†…æ··åˆ Blockquotes
                     
-> ÒıÓÃ£ºÈç¹ûÏëÒª²åÈë¿Õ°×»»ĞĞ`¼´<br />±êÇ©`£¬ÔÚ²åÈë´¦ÏÈ¼üÈëÁ½¸öÒÔÉÏµÄ¿Õ¸ñÈ»ºó»Ø³µ¼´¿É£¬[ÆÕÍ¨Á´½Ó](http://localhost/)¡£
+> å¼•ç”¨ï¼šå¦‚æœæƒ³è¦æ’å…¥ç©ºç™½æ¢è¡Œ`å³<br />æ ‡ç­¾`ï¼Œåœ¨æ’å…¥å¤„å…ˆé”®å…¥ä¸¤ä¸ªä»¥ä¸Šçš„ç©ºæ ¼ç„¶åå›è½¦å³å¯ï¼Œ[æ™®é€šé“¾æ¥](http://localhost/)ã€‚
 
-### ÃªµãÓëÁ´½Ó Links
+### é”šç‚¹ä¸é“¾æ¥ Links
 
-[ÆÕÍ¨Á´½Ó](http://localhost/)
+[æ™®é€šé“¾æ¥](http://localhost/)
 
-[ÆÕÍ¨Á´½Ó´ø±êÌâ](http://localhost/ "ÆÕÍ¨Á´½Ó´ø±êÌâ")
+[æ™®é€šé“¾æ¥å¸¦æ ‡é¢˜](http://localhost/ "æ™®é€šé“¾æ¥å¸¦æ ‡é¢˜")
 
-Ö±½ÓÁ´½Ó£º<https://github.com>
+ç›´æ¥é“¾æ¥ï¼š<https://github.com>
 
-[ÃªµãÁ´½Ó][anchor-id] 
+[é”šç‚¹é“¾æ¥][anchor-id] 
 
 [anchor-id]: http://www.this-anchor-link.com/
 
@@ -91,28 +91,28 @@ GFM a-tail link @pandao
 
 > @pandao
 
-### ¶àÓïÑÔ´úÂë¸ßÁÁ Codes
+### å¤šè¯­è¨€ä»£ç é«˜äº® Codes
 
-#### ĞĞÄÚ´úÂë Inline code
+#### è¡Œå†…ä»£ç  Inline code
 
-Ö´ĞĞÃüÁî£º`npm install marked`
+æ‰§è¡Œå‘½ä»¤ï¼š`npm install marked`
 
-#### Ëõ½ø·ç¸ñ
+#### ç¼©è¿›é£æ ¼
 
-¼´Ëõ½øËÄ¸ö¿Õ¸ñ£¬Ò²×öÎªÊµÏÖÀàËÆ`<pre>`Ô¤¸ñÊ½»¯ÎÄ±¾(Preformatted Text)µÄ¹¦ÄÜ¡£
+å³ç¼©è¿›å››ä¸ªç©ºæ ¼ï¼Œä¹Ÿåšä¸ºå®ç°ç±»ä¼¼`<pre>`é¢„æ ¼å¼åŒ–æ–‡æœ¬(Preformatted Text)çš„åŠŸèƒ½ã€‚
 
     <?php
         echo "Hello world!";
     ?>
     
-Ô¤¸ñÊ½»¯ÎÄ±¾£º
+é¢„æ ¼å¼åŒ–æ–‡æœ¬ï¼š
 
     | First Header  | Second Header |
     | ------------- | ------------- |
     | Content Cell  | Content Cell  |
     | Content Cell  | Content Cell  |
 
-#### JS´úÂë¡¡
+#### JSä»£ç ã€€
 
 ```javascript
 function test(){
@@ -153,7 +153,7 @@ var testBox = box();
 testBox.add("jQuery").remove("jQuery");
 ```
 
-#### HTML´úÂë HTML codes
+#### HTMLä»£ç  HTML codes
 
 ```html
 <!DOCTYPE html>
@@ -168,7 +168,7 @@ testBox.add("jQuery").remove("jQuery");
 </html>
 ```
 
-### Í¼Æ¬ Images
+### å›¾ç‰‡ Images
 
 Image:
 
@@ -178,47 +178,47 @@ Image:
 
 ![](https://pandao.github.io/editor.md/examples/images/8.jpg)
 
-> Í¼Îª£ºÏÃÃÅ°×³ÇÉ³Ì²
+> å›¾ä¸ºï¼šå¦é—¨ç™½åŸæ²™æ»©
 
-Í¼Æ¬¼ÓÁ´½Ó (Image + Link)£º
+å›¾ç‰‡åŠ é“¾æ¥ (Image + Link)ï¼š
 
-[![](https://pandao.github.io/editor.md/examples/images/7.jpg)](https://pandao.github.io/editor.md/examples/images/7.jpg "Àî½¡Ê×ÕÅ×¨¼­¡¶ËÆË®Á÷Äê¡··âÃæ")
+[![](https://pandao.github.io/editor.md/examples/images/7.jpg)](https://pandao.github.io/editor.md/examples/images/7.jpg "æå¥é¦–å¼ ä¸“è¾‘ã€Šä¼¼æ°´æµå¹´ã€‹å°é¢")
 
-> Í¼Îª£ºÀî½¡Ê×ÕÅ×¨¼­¡¶ËÆË®Á÷Äê¡··âÃæ
+> å›¾ä¸ºï¼šæå¥é¦–å¼ ä¸“è¾‘ã€Šä¼¼æ°´æµå¹´ã€‹å°é¢
                 
 ----
 
-### ÁĞ±í Lists
+### åˆ—è¡¨ Lists
 
-#### ÎŞĞòÁĞ±í£¨¼õºÅ£©Unordered Lists (-)
+#### æ— åºåˆ—è¡¨ï¼ˆå‡å·ï¼‰Unordered Lists (-)
                 
-- ÁĞ±íÒ»
-- ÁĞ±í¶ş
-- ÁĞ±íÈı
+- åˆ—è¡¨ä¸€
+- åˆ—è¡¨äºŒ
+- åˆ—è¡¨ä¸‰
      
-#### ÎŞĞòÁĞ±í£¨ĞÇºÅ£©Unordered Lists (*)
+#### æ— åºåˆ—è¡¨ï¼ˆæ˜Ÿå·ï¼‰Unordered Lists (*)
 
-* ÁĞ±íÒ»
-* ÁĞ±í¶ş
-* ÁĞ±íÈı
+* åˆ—è¡¨ä¸€
+* åˆ—è¡¨äºŒ
+* åˆ—è¡¨ä¸‰
 
-#### ÎŞĞòÁĞ±í£¨¼ÓºÅºÍÇ¶Ì×£©Unordered Lists (+)
+#### æ— åºåˆ—è¡¨ï¼ˆåŠ å·å’ŒåµŒå¥—ï¼‰Unordered Lists (+)
                 
-+ ÁĞ±íÒ»
-+ ÁĞ±í¶ş
-    + ÁĞ±í¶ş-1
-    + ÁĞ±í¶ş-2
-    + ÁĞ±í¶ş-3
-+ ÁĞ±íÈı
-    * ÁĞ±íÒ»
-    * ÁĞ±í¶ş
-    * ÁĞ±íÈı
++ åˆ—è¡¨ä¸€
++ åˆ—è¡¨äºŒ
+    + åˆ—è¡¨äºŒ-1
+    + åˆ—è¡¨äºŒ-2
+    + åˆ—è¡¨äºŒ-3
++ åˆ—è¡¨ä¸‰
+    * åˆ—è¡¨ä¸€
+    * åˆ—è¡¨äºŒ
+    * åˆ—è¡¨ä¸‰
 
-#### ÓĞĞòÁĞ±í Ordered Lists (-)
+#### æœ‰åºåˆ—è¡¨ Ordered Lists (-)
                 
-1. µÚÒ»ĞĞ
-2. µÚ¶şĞĞ
-3. µÚÈıĞĞ
+1. ç¬¬ä¸€è¡Œ
+2. ç¬¬äºŒè¡Œ
+3. ç¬¬ä¸‰è¡Œ
 
 #### GFM task list
 
@@ -234,13 +234,13 @@ Image:
                 
 ----
                     
-### »æÖÆ±í¸ñ Tables
+### ç»˜åˆ¶è¡¨æ ¼ Tables
 
-| ÏîÄ¿        | ¼Û¸ñ   |  ÊıÁ¿  |
+| é¡¹ç›®        | ä»·æ ¼   |  æ•°é‡  |
 | --------   | -----:  | :----:  |
-| ¼ÆËã»ú      | $1600   |   5     |
-| ÊÖ»ú        |   $12   |   12   |
-| ¹ÜÏß        |    $1    |  234  |
+| è®¡ç®—æœº      | $1600   |   5     |
+| æ‰‹æœº        |   $12   |   12   |
+| ç®¡çº¿        |    $1    |  234  |
                     
 First Header  | Second Header
 ------------- | -------------
@@ -271,7 +271,7 @@ Content Cell  | Content Cell
                 
 ----
 
-#### ÌØÊâ·ûºÅ HTML Entities Codes
+#### ç‰¹æ®Šç¬¦å· HTML Entities Codes
 
 &copy; &  &uml; &trade; &iexcl; &pound;
 &amp; &lt; &gt; &yen; &euro; &reg; &plusmn; &para; &sect; &brvbar; &macr; &laquo; &middot; 
@@ -280,7 +280,7 @@ X&sup2; Y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo;
 
 18&ordm;C  &quot;  &apos;
 
-### Emoji±íÇé :smiley:
+### Emojiè¡¨æƒ… :smiley:
 
 > Blockquotes :star:
 
@@ -294,21 +294,21 @@ X&sup2; Y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo;
     - [ ] :smiley: this is an incomplete item [test link](#) :fa-star: :fa-gear:;
     - [ ] :smiley: this is  :fa-star: :fa-gear: an incomplete item [test link](#);
  
-#### ·´Ğ±¸Ü Escape
+#### åæ–œæ  Escape
 
 \*literal asterisks\*
             
-### ¿ÆÑ§¹«Ê½ TeX(KaTeX)
+### ç§‘å­¦å…¬å¼ TeX(KaTeX)
                     
 $$E=mc^2$$
 
-ĞĞÄÚµÄ¹«Ê½$$E=mc^2$$ĞĞÄÚµÄ¹«Ê½£¬ĞĞÄÚµÄ$$E=mc^2$$¹«Ê½¡£
+è¡Œå†…çš„å…¬å¼$$E=mc^2$$è¡Œå†…çš„å…¬å¼ï¼Œè¡Œå†…çš„$$E=mc^2$$å…¬å¼ã€‚
 
 $$\(\sqrt{3x-1}+(1+x)^2\)$$
                     
 $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
 
-¶àĞĞ¹«Ê½£º
+å¤šè¡Œå…¬å¼ï¼š
 
 ```math
 \displaystyle
@@ -336,20 +336,20 @@ f(x) = \int_{-\infty}^\infty
     \,d\xi
 ```
                 
-### »æÖÆÁ÷³ÌÍ¼ Flowchart
+### ç»˜åˆ¶æµç¨‹å›¾ Flowchart
 
 ```flow
-st=>start: ÓÃ»§µÇÂ½
-op=>operation: µÇÂ½²Ù×÷
-cond=>condition: µÇÂ½³É¹¦ Yes or No?
-e=>end: ½øÈëºóÌ¨
+st=>start: ç”¨æˆ·ç™»é™†
+op=>operation: ç™»é™†æ“ä½œ
+cond=>condition: ç™»é™†æˆåŠŸ Yes or No?
+e=>end: è¿›å…¥åå°
 
 st->op->cond
 cond(yes)->e
 cond(no)->op
 ```
                     
-### »æÖÆĞòÁĞÍ¼ Sequence Diagram
+### ç»˜åˆ¶åºåˆ—å›¾ Sequence Diagram
                     
 ```seq
 Andrew->China: Says Hello 
