@@ -21,13 +21,13 @@
      -  [1.2.2  参考文件](###1.2.2参考文件)
      -  [1.2.3  线上链接](###1.2.3线上链接)
 
-<a name="sectionOne"></a>
+<a name="sectionOne.One"></a>
 #1.课程及教学活动介绍
 
-<a name="sectionOne.1"></a>
+<a name="sectionthree"></a>
 ##1.1	建立课程及课程类型介绍
 
-<a name="sectionOne.1.1"></a>
+<a name="sectionOnefour"></a>
 ### 1.1.1	如何新建课程（以老师身份）
 - 点击“我的课程”> 点击“新建课程”
 - 超级管理员、教务也可以作为老师的角色，开课授课
