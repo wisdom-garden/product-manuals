@@ -21,17 +21,19 @@
      -  [1.2.2  参考文件](###1.2.2参考文件)
      -  [1.2.3  线上链接](###1.2.3线上链接)
 
-<a name="sectionOne.One"></a>
+<a name="sectionOne"></a>
 #1.课程及教学活动介绍
 
-<a name="sectionthree"></a>
+<a name="sectionOne.One"></a>
 ##1.1	建立课程及课程类型介绍
 
-<a name="sectionOnefour"></a>
+<a name="sectionthree"></a>
 ### 1.1.1	如何新建课程（以老师身份）
 - 点击“我的课程”> 点击“新建课程”
 - 超级管理员、教务也可以作为老师的角色，开课授课
 ![](http://o6qxhpspp.bkt.clouddn.com/%E5%BB%BA%E7%AB%8B%E8%AF%BE%E7%A8%8B.tmp.jpg)
+
+<a name="sectionfour"></a>
 ### 1.1.2   轻量级课程
 - 轻量级课程适用于学习时程短，主题明确，以微视频为核心教学资源来开展的，可以作为一门课程、也可以通过轻课程开展课前或课后知识补充，应用在企业可能会作为精品课程的试看课程或宣传公开课
 
